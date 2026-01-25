@@ -3,6 +3,15 @@
 
 Welcome to the official scripts store by ShozonRoy. Here you'll find a collection of premium PHP/Laravel scripts for various purposes.
 
+
+# যেকোনো ওয়েবসাইট এবং স্ক্রিপ্ট এর উপর ৫০% ছাড় পেতে আমাদের কুপন কোডটি ব্যবহার করুন।
+
+# COUPON CODE IS: SR_WIN50%
+
+![1](https://i.postimg.cc/xdK18v0C/20260114-163227.jpg)
+
+
+
 ## Contact Information
 
 **Contact Me:**  
